@@ -72,9 +72,13 @@
 
 ---
 
-## 🟩 Contributions (Green Grid)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shanth05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://github.com/Shanth05/Shanth05/blob/main/github-metrics.svg)
+--- 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shanth05&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
