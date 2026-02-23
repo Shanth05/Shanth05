@@ -72,19 +72,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shanth05&theme=radical&no-frame=true&no-bg=true&margin-w=6)
-
----
-
 ## 🟩 Contributions (Green Grid)
 
 ![](https://github.com/Shanth05/Shanth05/blob/main/github-metrics.svg)
-
----
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/Shanth05/Shanth05/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
